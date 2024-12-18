@@ -1,5 +1,5 @@
 streamlit_option_menu
 numpy
-matplolib
+matplotlib
 requests
 beautifulsoup4
