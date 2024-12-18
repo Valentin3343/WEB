@@ -1,1 +1,5 @@
 streamlit_option_menu
+numpy
+matplolib
+requests
+beautifulsoup4
